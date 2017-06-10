@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+I need to initialize it in order to set it as a reposetry that has the version controlling infrustrcture to support the Git and its commands and in order to be able to use the git tools with it in the future. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area is the waiting area for anything to be committed while the working directory represent the files that are beind edited after the latest commit. 
