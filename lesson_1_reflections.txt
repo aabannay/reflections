@@ -1,4 +1,4 @@
-How did viewing a diff between two versions of a file help you see the bug that was introduced?
+ How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
 It showed me the differences between the old and new version and through reading the differences I noticed the typo. 
 After checking the typo, It is clearly a source of error and it should be corrected for the applicaton to run. 

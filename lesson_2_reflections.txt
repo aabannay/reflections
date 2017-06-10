@@ -4,4 +4,4 @@ I need to initialize it in order to set it as a reposetry that has the version c
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-staging area is the waiting area for anything to be committed while the working directory represent the files that are beind edited after the latest commit. 
+staging area is the waiting area for anything to be committed while the working directory represent the files that are beind edited after the latest commit.  
