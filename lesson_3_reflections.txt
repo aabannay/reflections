@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+There are many advantages of using a remote repository such as collaporation in coding, debugging, testing and commenting.
+Also, it is very useful for the open source project where they can be used by multiple people at the same time and everyone will 
+contribute with their own ideas and efforts. 
