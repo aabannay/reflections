@@ -5,3 +5,19 @@ I need to initialize it in order to set it as a reposetry that has the version c
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 staging area is the waiting area for anything to be committed while the working directory represent the files that are beind edited after the latest commit.  
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+by adding all the changes related to one logical change in the staging area and commiting after the change has been made and verified and then comment on the logical change for future usage. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Some situations could be when trying new features or creating a complete different version of the project such as trying new languages
+
+How do the diagrams help you visualize the branch structure?
+
+It helps since it shows the commit that the branch started from and it help in visualizing the taken actions on each branch and how do they differ. It is a good starting point to understand what is the function of a certain branch and what is expected from it. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merge will merge the new updated or added values. However, sometimes the same code is edited or the same function is written twice. For example, when a code is written by 2 users then when trying to make a merge it will show conflect which should be resolved manually!
